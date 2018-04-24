@@ -1,3 +1,5 @@
+# Originally from here https://hub.docker.com/r/waleedka/modern-deep-learning/
+
 FROM ubuntu:18.04
 
 # Supress warnings about missing front-end. As recommended at:
