@@ -54,7 +54,9 @@ RUN pip3 --no-cache-dir install \
     xgboost \
     matplotlib \
     h2o \
-    tqdm
+    tqdm \
+    Augmentor
+    
 
 #
 # Jupyter Notebook
