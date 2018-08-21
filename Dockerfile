@@ -55,7 +55,9 @@ RUN pip3 --no-cache-dir install \
     matplotlib \
     h2o \
     tqdm \
-    Augmentor
+    Augmentor \
+    lightgbm \
+    catboost
     
 
 #
